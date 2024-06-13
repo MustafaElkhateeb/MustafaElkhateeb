@@ -5,10 +5,10 @@ Digital Craftsman (AI Developer/Filmmaker/Creator)
 ------------------------
 Im an upcoming AI developer that is interested in everything AI related (ML,DL,RL and anything in between),
 I also love working on video projects let it be on big or small ones (I just love to create things),
-Hope you find my work interesting to you and feel free to contact me on any of my socials.
+Hope you find my work interesting to you and feel free to contact me on any of my socials ✌.
 
 ------------------------
-More Info
+More Info :
 
 * 🌍  I'm based in Cairo
 * ✉️  You can contact me at [thesafy22@gmail.com](mailto:thesafy22@gmail.com)
@@ -16,7 +16,7 @@ More Info
 * 🤝  I'm open to collaborating on Anything Related with AI
 * ⚡  ANIME
 
-### Skills
+### 🧰 Languages and Tools
 
 
 <p align="left">
@@ -24,6 +24,13 @@ More Info
 </p>
 
 
-### Socials
+### ✉ Socials
 
 <p align="left"> <a href="https://discord.com/users/thesafy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/MustafaElkhateeb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mustafa-mohamed-6b91b2264/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<details>
+<summary><h3>🤫 Secret Domain </h3></summary>
+![gojo](https://github.com/MustafaElkhateeb/MustafaElkhateeb/assets/82219202/2861a4c5-ecfe-449d-bd0d-91d2ee39a3a1)
+
+  
+</details>
