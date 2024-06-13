@@ -1,7 +1,7 @@
-Hi 👋 My name is Mustafa Elkhateeb
+# Hi There 👋,  My name is Mustafa Elkhateeb
 =========================================================================================================================================
 
-AI Developer / FilmMaker
+Digital Craftsman (AI Developer/Filmmaker/Creator)
 ------------------------
 
 * 🌍  I'm based in Cairo
