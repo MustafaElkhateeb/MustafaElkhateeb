@@ -3,6 +3,12 @@ Hi There 👋,  My name is Mustafa Elkhateeb
 
 Digital Craftsman (AI Developer/Filmmaker/Creator)
 ------------------------
+Im an upcoming AI developer that is interested in everything AI related (ML,DL,RL and anything in between),
+I also love working on video projects let it be on big or small ones (I just love to create things),
+Hope you find my work interesting to you and feel free to contact me on any of my socials.
+
+------------------------
+More Info
 
 * 🌍  I'm based in Cairo
 * ✉️  You can contact me at [thesafy22@gmail.com](mailto:thesafy22@gmail.com)
