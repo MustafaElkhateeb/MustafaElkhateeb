@@ -11,7 +11,7 @@ Hope you find my work interesting to you and feel free to contact me on any of m
 More Info :
 
 * 🌍  I'm based in Cairo
-* ✉️  You can contact me at [thesafy22@gmail.com](mailto:mustafa.elkhateeb22@gmail.com)
+* ✉️  You can contact me at [mustafa.elkhateeb22@gmail](mailto:mustafa.elkhateeb22@gmail.com)
 * 🧠  I'm learning Speech Recognition with Transformers
 * 🤝  I'm open to collaborating on Anything Related with AI
 * ⚡  ANIME
